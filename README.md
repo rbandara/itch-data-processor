@@ -1,0 +1,1 @@
+download ITCH files to data directory from https://emi.nasdaq.com/ITCH/Nasdaq%20ITCH/
