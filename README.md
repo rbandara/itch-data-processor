@@ -6,7 +6,6 @@ This project provides a **high-performance C++ client** and a **Python-based sim
 Key features:
 - **Low-Latency C++ Client**: Parses ITCH messages with optimized memory access and endianness handling, achieving sub-microsecond processing (benchmarked at ~1M messages/sec on a single core).
 - **Python Simulator**: Replays ITCH 5.0 binary files with configurable pacing for realistic testing.
-- **Portfolio Showcase**: Demonstrates expertise in network programming, real-time systems, and financial data processing, suitable for HFT, quant finance, or FinTech roles.
 
 ## Project Structure
 - `itch_client.cpp`: C++ client for receiving and parsing ITCH messages via UDP multicast.
@@ -38,7 +37,7 @@ Key features:
    ```
 
 3. **Prepare ITCH Data**:
-   - Download a sample ITCH 5.0 file (e.g., from NASDAQ's FTP or test datasets).
+   - Download a sample ITCH 5.0 file (e.g., from NASDAQ's FTP or test datasets).- ex:`https://emi.nasdaq.com/ITCH/Nasdaq%20ITCH/`
    - Place it in the project directory (e.g., `data/01302019.NASDAQ_ITCH50`).
 
 ## Usage
